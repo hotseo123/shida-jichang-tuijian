@@ -83,11 +83,11 @@
 ### 客户端
 
 >Windows：Clash Verge Rev / Clash Party / FLClash / Hiddify / v2rayN
-macOS：Clash Party / Clash Verge Rev / ClashX Pro / FLClash / Hiddify / Surge
-iOS：Hiddify / Clash Mi / Karing / Shadowrocket / Quantumult X / Stash / Loon / Surge
-Android：Clash Meta for Android / FLClash / Hiddify / Surfboard / v2rayNG
-Linux：Shell Clash / Mihomo Party / Clash Verge Rev / FLClash
-路由器：OpenClash（OpenWRT） / PassWall
+>macOS：Clash Party / Clash Verge Rev / ClashX Pro / FLClash / Hiddify / Surge
+>iOS：Hiddify / Clash Mi / Karing / Shadowrocket / Quantumult X / Stash / Loon / Surge
+>Android：Clash Meta for Android / FLClash / Hiddify / Surfboard / v2rayNG
+>Linux：Shell Clash / Mihomo Party / Clash Verge Rev / FLClash
+>路由器：OpenClash（OpenWRT） / PassWall
 
 ## 📌 推荐原则
 
