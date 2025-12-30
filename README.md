@@ -92,215 +92,347 @@
 
 ---
 
-## 🛫 十大推荐机场
+# 🌐 2025 精选机场推荐
 
-### 1. 一枝红杏加速器
-**特性**  
-- 协议：Vmess / Trojan / Shadowsocks  
-- 节点分布：香港 / 日本 / 新加坡 / 美国  
-- 支持客户端：Clash、V2rayN、Shadowrocket  
-
-**优点**  
-- 高峰期稳定，流媒体支持良好  
-
-**注意点**  
-- 部分节点需手动选择  
-- 年付成本偏高  
-
-**适合人群**  
-- 稳定节点 + 流媒体用户  
-
-**官网**：https://example1.com  
-**套餐/优惠参考**：月付 50 元起，优惠码：无  
+> 本仓库整理了 10 个稳定可靠的机场服务商，提供基本信息、服务亮点及套餐价格，帮助用户快速选择最适合的机场。
 
 ---
 
-### 2. 奈云机场
-**特性**  
-- 协议：Trojan / Vmess  
-- 节点分布：香港 / 日本 / 新加坡  
-- 支持客户端：Clash、Shadowrocket  
+## 📑 目录
 
-**优点**  
-- 节点延迟低，兼容多客户端  
-
-**注意点**  
-- 高峰期节点可能拥挤  
-- 套餐价格略高  
-
-**适合人群**  
-- 日常使用、多客户端用户  
-
-**官网**：https://example2.com  
-**套餐/优惠参考**：月付 35 元起，优惠码：1212  
+1. [一枝红杏加速器](#一枝红杏加速器)  
+2. [奈云机场](#奈云机场)  
+3. [Cyberguard机场](#Cyberguard机场)  
+4. [肥猫云机场](#肥猫云机场)  
+5. [雪橇云机场](#雪橇云机场)  
+6. [红杏云机场](#红杏云机场)  
+7. [WgetCloud机场](#WgetCloud机场)  
+8. [大米机场](#大米机场)  
+9. [蓝帆云机场](#蓝帆云机场)  
+10. [赔钱机场](#赔钱机场)  
 
 ---
 
-### 3. cyberguard机场
-**特性**  
-- 协议：V2ray / Shadowsocks  
-- 节点分布：美国 / 日本 / 新加坡  
-- 支持客户端：V2rayN、Clash  
+## 🧭 一枝红杏加速器
 
-**优点**  
-- 安全性高，配置简单  
-- 延迟表现稳定  
+### 🔹 基本信息
+- **服务名称**：一枝红杏加速器  
+- **官网 / 注册**：🔗 [点击访问](https://yzha.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/yzha)  
+- **开通时间**：2022 年  
+- **协议支持**：Shadowsocks / Trojan / Vmess  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-50%2B-brightgreen)  
+- **入口线路**：国内 IEPL / 海外直连  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket  
+- **适用平台**：Windows / macOS / iOS / Android  
+- **支付方式**：支付宝 / 微信 / Paypal  
+- **套餐流量类型**：按量计费 / 周期计费  
 
-**注意点**  
-- 节点数量相对少  
-- 高峰期偶尔掉线  
+### ✨ 服务亮点
+- ⚡ 高稳定性，多入口线路夜间不掉线  
+- 🎬 支持 Netflix / Disney+ / YouTube 解锁  
+- 🔐 协议丰富，兼容多客户端  
+- 🌍 节点覆盖美洲、欧洲、亚洲  
 
-**适合人群**  
-- 注重安全与简单配置的用户  
-
-**官网**：https://example3.com  
-**套餐/优惠参考**：月付 40 元起，优惠码：无  
-
----
-
-### 4. 肥猫云机场
-**特性**  
-- 协议：Vmess / Trojan  
-- 节点分布：香港 / 日本 / 美国  
-- 支持客户端：Clash、V2rayN  
-
-**优点**  
-- 价格亲民，延迟低  
-
-**注意点**  
-- 高峰期节点数量有限  
-
-**适合人群**  
-- 性价比高、日常使用的用户  
-
-**官网**：https://example4.com  
-**套餐/优惠参考**：月付 25 元起，优惠码：hello2026  
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 入门版 | 100 GB/月 | ¥29/月 | 3  | ![价格](https://img.shields.io/badge/价格-29-yellow) |
+| 🟡 标准版 | 300 GB/月 | ¥59/月 | 5  | ![价格](https://img.shields.io/badge/价格-59-orange) |
+| 🔴 旗舰版 | 1000 GB/月 | ¥120/月 | 不限 | ![价格](https://img.shields.io/badge/价格-120-red) |
 
 ---
 
-### 5. 大米机场
-**特性**  
-- 协议：Trojan / Vmess / Shadowsocks  
-- 节点分布：日本 / 新加坡 / 美国  
-- 支持客户端：Clash、V2rayN、Shadowrocket  
+## 🧭 奈云机场
 
-**优点**  
-- 节点多，流媒体解锁能力良好  
-- 稳定性较高  
+### 🔹 基本信息
+- **服务名称**：奈云机场  
+- **官网 / 注册**：🔗 [点击访问](https://naiyun.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/naiyun)  
+- **开通时间**：2021 年  
+- **协议支持**：Shadowsocks / V2ray / Trojan  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-40%2B-brightgreen)  
+- **入口线路**：国内 IEPL / 海外中转  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-不限-blue)  
+- **客户端支持**：Clash, V2rayN, Surge  
+- **适用平台**：Windows / macOS / iOS / Android / 路由器  
+- **支付方式**：支付宝 / 微信 / USDT  
+- **套餐流量类型**：按量计费 / 周期计费  
 
-**注意点**  
-- 套餐价格偏贵  
-- 需要挑选节点使用  
+### ✨ 服务亮点
+- 🌐 节点覆盖广，支持多国线路  
+- 🎥 流媒体解锁效果良好  
+- ⚡ 高稳定性，支持高峰期使用  
+- 🔗 多协议兼容，客户端选择丰富  
 
-**适合人群**  
-- 流媒体体验用户  
-
-**官网**：https://example5.com  
-**套餐/优惠参考**：月付 45 元起，优惠码：无  
-
----
-
-### 6. 雪橇云机场
-**特性**  
-- 协议：Vmess / Trojan  
-- 节点分布：香港 / 日本 / 美国  
-- 支持客户端：Clash、V2rayN  
-
-**优点**  
-- 高峰期稳定，节点新鲜  
-
-**注意点**  
-- 年付成本高  
-- 部分节点需手动选择  
-
-**适合人群**  
-- 追求稳定与节点新鲜的用户  
-
-**官网**：https://example6.com  
-**套餐/优惠参考**：月付 30 元起，优惠码：double  
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 月付 | 150 GB/月 | ¥35/月 | 3  | ![价格](https://img.shields.io/badge/价格-35-yellow) |
+| 🟡 季付 | 500 GB/季 | ¥99/季 | 5  | ![价格](https://img.shields.io/badge/价格-99-orange) |
+| 🔴 年付 | 2000 GB/年 | ¥320/年 | 不限 | ![价格](https://img.shields.io/badge/价格-320-red) |
 
 ---
 
-### 7. 红杏云机场
-**特性**  
-- 协议：Vmess / Shadowsocks  
-- 节点分布：香港 / 日本 / 新加坡  
-- 支持客户端：Clash、V2rayN  
+## 🧭 Cyberguard机场
 
-**优点**  
-- 配置简单，延迟低  
-- 套餐价格合理  
+### 🔹 基本信息
+- **服务名称**：Cyberguard机场  
+- **官网 / 注册**：🔗 [点击访问](https://cyberguard.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/cyberguard)  
+- **开通时间**：2020 年  
+- **协议支持**：Shadowsocks / Trojan / Vmess / VLESS  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-60%2B-brightgreen)  
+- **入口线路**：国内直连 / 海外专线  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket, Hiddify  
+- **适用平台**：Windows / macOS / iOS / Android / 路由器  
+- **支付方式**：支付宝 / 微信 / Paypal / USDT  
+- **套餐流量类型**：按量计费 / 周期计费 / 按量+周期计费  
 
-**注意点**  
-- 节点数量一般，高峰期可能拥挤  
+### ✨ 服务亮点
+- 🌍 全球多节点，延迟低  
+- 🎬 支持 Netflix / Disney+ 流媒体解锁  
+- 🔐 多协议支持，多客户端兼容  
+- ⚡ 高稳定性，适合远程办公  
 
-**适合人群**  
-- 日常使用、注重简单配置的用户  
-
-**官网**：https://example7.com  
-**套餐/优惠参考**：月付 28 元起，优惠码：无  
-
----
-
-### 8. WgetCloud机场
-**特性**  
-- 协议：Trojan / Vmess  
-- 节点分布：美国 / 日本 / 新加坡  
-- 支持客户端：Clash、V2rayN  
-
-**优点**  
-- 节点速度快，稳定性不错  
-
-**注意点**  
-- 部分节点可能在特定地区被屏蔽  
-- 高峰期延迟略高  
-
-**适合人群**  
-- 需要快速节点、偶尔流媒体播放的用户  
-
-**官网**：https://example8.com  
-**套餐/优惠参考**：月付 38 元起，优惠码：无  
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 入门版 | 100 GB/月 | ¥29/月 | 3  | ![价格](https://img.shields.io/badge/价格-29-yellow) |
+| 🟡 标准版 | 400 GB/月 | ¥69/月 | 5  | ![价格](https://img.shields.io/badge/价格-69-orange) |
+| 🔴 旗舰版 | 1500 GB/月 | ¥150/月 | 不限 | ![价格](https://img.shields.io/badge/价格-150-red) |
 
 ---
 
-### 9. 赔钱机场
-**特性**  
-- 协议：Vmess / Trojan  
-- 节点分布：香港 / 日本 / 美国  
-- 支持客户端：Clash、V2rayN  
+## 🧭 肥猫云机场
 
-**优点**  
-- 价格低，支持多客户端  
+### 🔹 基本信息
+- **服务名称**：肥猫云机场  
+- **官网 / 注册**：🔗 [点击访问](https://feimao.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/feimao)  
+- **开通时间**：2021 年  
+- **协议支持**：Shadowsocks / Trojan  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-35%2B-brightgreen)  
+- **入口线路**：国内 IEPL / 海外中转  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket  
+- **适用平台**：Windows / macOS / iOS / Android  
+- **支付方式**：支付宝 / 微信 / USDT  
+- **套餐流量类型**：周期计费 / 按量+周期计费  
 
-**注意点**  
-- 高峰期可能不稳定  
-- 不保证长期可用  
+### ✨ 服务亮点
+- ⚡ 稳定性良好，适合长时间使用  
+- 🎬 流媒体解锁效果良好  
+- 🔐 协议支持丰富  
+- 🌍 节点覆盖亚洲、美洲  
 
-**适合人群**  
-- 临时测试或备用用户  
-
-**官网**：https://example9.com  
-**套餐/优惠参考**：月付 10 元起，优惠码：test  
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 月付 | 100 GB/月 | ¥28/月 | 3  | ![价格](https://img.shields.io/badge/价格-28-yellow) |
+| 🟡 季付 | 300 GB/季 | ¥79/季 | 5  | ![价格](https://img.shields.io/badge/价格-79-orange) |
+| 🔴 年付 | 1200 GB/年 | ¥290/年 | 不限 | ![价格](https://img.shields.io/badge/价格-290-red) |
 
 ---
 
-## 💻 客户端大全（详细版）
+## 🧭 雪橇云机场
 
-| 客户端 | 平台 | 支持协议 | 特点 | 使用场景 | 是否收费 | 适合人群 |
-|----|----|----|----|----|----|----|
-| Clash | Windows / Mac / Android / iOS | Vmess / Trojan / Shadowsocks | 多平台、多节点管理，规则分流功能强 | 多节点管理、分流规则用户 | 免费 | 高级用户、规则定制用户 |
-| V2rayN | Windows | Vmess / Trojan / Shadowsocks | Windows 专用，功能强大，支持日志和测速 | Windows 使用，专业用户 | 免费 | 高级 Windows 用户 |
-| Shadowrocket | iOS | Vmess / Trojan / Shadowsocks | 支持规则、分流和分应用代理 | iPhone/iPad 使用，流媒体解锁 | 付费 | iOS 用户、分流需求用户 |
-| ClashX | Mac | Vmess / Trojan / Shadowsocks | Mac 图形界面易用，支持规则管理 | Mac 用户，流媒体和分流管理 | 免费 | Mac 用户、希望配置简单 |
-| Quantumult X | iOS | Vmess / Trojan / Shadowsocks | 高级 iOS 客户端，规则丰富 | iOS 高级用户、流媒体解锁 | 付费 | iOS 高级用户 |
-| Kitsunebi | Android / iOS | Vmess / Trojan / Shadowsocks | 跨平台客户端，支持多节点，配置简单 | 跨设备使用或快速切换节点 | 免费 | Android/iOS 用户、快速配置需求 |
-| Surge | Mac / iOS | Vmess / Trojan / Shadowsocks | 高级代理工具，规则灵活，可做网络调试 | 高级用户、流媒体和测试 | 付费 | 高级 Mac/iOS 用户 |
-| ShadowsocksR (SSR) | Windows / Android / iOS | ShadowsocksR | 老牌客户端，轻量，稳定 | 老用户习惯，轻量化代理 | 免费 | 传统用户、轻量稳定 |
-| V2rayNG | Android | Vmess / Trojan / Shadowsocks | Android 专用，界面简单，支持配置导入 | 手机端使用，快速切换节点 | 免费 | Android 用户 |
-| Clash for Android | Android | Vmess / Trojan / Shadowsocks | Android 专用 Clash 内核，支持规则和多节点 | 手机端高级用户，分流需求强 | 免费 | Android 高级用户 |
-| Quantumult | iOS | Vmess / Trojan / Shadowsocks | iOS 高级客户端，规则丰富 | iOS 流媒体解锁和规则分流 | 付费 | iOS 高级用户 |
-| Shadowrocket TestFlight | iOS | Vmess / Trojan / Shadowsocks | Shadowrocket 测试版，支持最新协议功能 | 想尝试最新功能 | 免费（TestFlight） | iOS 爱尝鲜用户 |
-| V2rayU | Mac | Vmess / Trojan / Shadowsocks | Mac 专用客户端，图形界面，支持规则和节点分组 | Mac 用户，稳定性高 | 免费 | Mac 用户 |
+### 🔹 基本信息
+- **服务名称**：雪橇云机场  
+- **官网 / 注册**：🔗 [点击访问](https://xueqiao.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/xueqiao)  
+- **开通时间**：2022 年  
+- **协议支持**：Shadowsocks / V2ray / Trojan  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-45%2B-brightgreen)  
+- **入口线路**：国内 IEPL / 海外直连  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-不限-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket, Hiddify  
+- **适用平台**：Windows / macOS / iOS / Android / 路由器  
+- **支付方式**：支付宝 / 微信 / Paypal / USDT  
+- **套餐流量类型**：按量计费 / 周期计费  
+
+### ✨ 服务亮点
+- 🌍 多国节点覆盖，稳定性高  
+- 🎬 支持 Netflix / Disney+ / YouTube 解锁  
+- 🔐 协议丰富，兼容多平台客户端  
+- ⚡ 适合远程办公与流媒体使用  
+
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 月付 | 120 GB/月 | ¥32/月 | 3  | ![价格](https://img.shields.io/badge/价格-32-yellow) |
+| 🟡 季付 | 400 GB/季 | ¥95/季 | 5  | ![价格](https://img.shields.io/badge/价格-95-orange) |
+| 🔴 年付 | 1500 GB/年 | ¥310/年 | 不限 | ![价格](https://img.shields.io/badge/价格-310-red) |
+
+---
+
+## 🧭 红杏云机场
+
+### 🔹 基本信息
+- **服务名称**：红杏云机场  
+- **官网 / 注册**：🔗 [点击访问](https://hongxing.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/hongxing)  
+- **开通时间**：2021 年  
+- **协议支持**：Shadowsocks / Trojan  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-30%2B-brightgreen)  
+- **入口线路**：国内直连 / 海外中转  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket  
+- **适用平台**：Windows / macOS / iOS / Android  
+- **支付方式**：支付宝 / 微信 / USDT  
+- **套餐流量类型**：周期计费 / 按量+周期计费  
+
+### ✨ 服务亮点
+- ⚡ 高性价比，稳定性好  
+- 🎬 支持流媒体解锁  
+- 🌍 节点覆盖亚洲和美洲  
+- 🔐 协议兼容性强  
+
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 月付 | 80 GB/月 | ¥25/月 | 3  | ![价格](https://img.shields.io/badge/价格-25-yellow) |
+| 🟡 季付 | 250 GB/季 | ¥70/季 | 5  | ![价格](https://img.shields.io/badge/价格-70-orange) |
+| 🔴 年付 | 1000 GB/年 | ¥280/年 | 不限 | ![价格](https://img.shields.io/badge/价格-280-red) |
+
+---
+
+## 🧭 WgetCloud机场
+
+### 🔹 基本信息
+- **服务名称**：WgetCloud机场  
+- **官网 / 注册**：🔗 [点击访问](https://wgetcloud.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/wgetcloud)  
+- **开通时间**：2022 年  
+- **协议支持**：Shadowsocks / V2ray / Trojan / VLESS  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-50%2B-brightgreen)  
+- **入口线路**：国内 IEPL / 海外专线  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-不限-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket, Hiddify  
+- **适用平台**：Windows / macOS / iOS / Android / 路由器  
+- **支付方式**：支付宝 / 微信 / Paypal / USDT  
+- **套餐流量类型**：按量计费 / 周期计费 / 按量+周期计费  
+
+### ✨ 服务亮点
+- 🌍 全球节点覆盖，延迟低  
+- 🎬 支持 Netflix / Disney+ / YouTube 流媒体  
+- 🔐 协议丰富，多客户端兼容  
+- ⚡ 高稳定性，适合办公和观影  
+
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 入门版 | 100 GB/月 | ¥30/月 | 3  | ![价格](https://img.shields.io/badge/价格-30-yellow) |
+| 🟡 标准版 | 400 GB/月 | ¥75/月 | 5  | ![价格](https://img.shields.io/badge/价格-75-orange) |
+| 🔴 旗舰版 | 1500 GB/月 | ¥160/月 | 不限 | ![价格](https://img.shields.io/badge/价格-160-red) |
+
+---
+
+## 🧭 大米机场
+
+### 🔹 基本信息
+- **服务名称**：大米机场  
+- **官网 / 注册**：🔗 [点击访问](https://dami.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/dami)  
+- **开通时间**：2020 年  
+- **协议支持**：Shadowsocks / Trojan  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-35%2B-brightgreen)  
+- **入口线路**：国内直连 / 海外中转  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket  
+- **适用平台**：Windows / macOS / iOS / Android  
+- **支付方式**：支付宝 / 微信 / USDT  
+- **套餐流量类型**：按量计费 / 周期计费  
+
+### ✨ 服务亮点
+- 🌍 节点覆盖稳定  
+- 🎬 支持流媒体解锁  
+- 🔐 协议丰富，多客户端兼容  
+- ⚡ 性价比高  
+
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 月付 | 100 GB/月 | ¥28/月 | 3  | ![价格](https://img.shields.io/badge/价格-28-yellow) |
+| 🟡 季付 | 300 GB/季 | ¥80/季 | 5  | ![价格](https://img.shields.io/badge/价格-80-orange) |
+| 🔴 年付 | 1200 GB/年 | ¥290/年 | 不限 | ![价格](https://img.shields.io/badge/价格-290-red) |
+
+---
+
+## 🧭 蓝帆云机场
+
+### 🔹 基本信息
+- **服务名称**：蓝帆云机场  
+- **官网 / 注册**：🔗 [点击访问](https://lanfan.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/lanfan)  
+- **开通时间**：2021 年  
+- **协议支持**：Shadowsocks / V2ray / Trojan  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-45%2B-brightgreen)  
+- **入口线路**：国内 IEPL / 海外直连  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-不限-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket  
+- **适用平台**：Windows / macOS / iOS / Android / 路由器  
+- **支付方式**：支付宝 / 微信 / Paypal / USDT  
+- **套餐流量类型**：按量计费 / 周期计费  
+
+### ✨ 服务亮点
+- 🌍 全球多节点  
+- 🎬 流媒体解锁稳定  
+- 🔐 协议丰富  
+- ⚡ 高稳定性，适合办公与观影  
+
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 月付 | 120 GB/月 | ¥32/月 | 3  | ![价格](https://img.shields.io/badge/价格-32-yellow) |
+| 🟡 季付 | 400 GB/季 | ¥95/季 | 5  | ![价格](https://img.shields.io/badge/价格-95-orange) |
+| 🔴 年付 | 1500 GB/年 | ¥310/年 | 不限 | ![价格](https://img.shields.io/badge/价格-310-red) |
+
+---
+
+## 🧭 赔钱机场
+
+### 🔹 基本信息
+- **服务名称**：赔钱机场  
+- **官网 / 注册**：🔗 [点击访问](https://peiqian.example.com)  
+- **Telegram / 联系**：[点击加入](https://t.me/peiqian)  
+- **开通时间**：2020 年  
+- **协议支持**：Shadowsocks / Trojan / Vmess  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-25%2B-brightgreen)  
+- **入口线路**：国内 IEPL / 海外直连  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket  
+- **适用平台**：Windows / macOS / iOS / Android  
+- **支付方式**：支付宝 / 微信 / USDT  
+- **套餐流量类型**：按量计费 / 周期计费  
+
+### ✨ 服务亮点
+- ⚡ 稳定性一般，但价格便宜  
+- 🌍 节点覆盖有限  
+- 🔐 协议兼容性良好  
+- 🎬 支持流媒体解锁  
+
+### 💰 套餐 & 价格
+| 套餐类型 | 流量 | 价格 | 支持设备 | 徽章 |
+|----------|------|------|-----------|------|
+| 🟢 月付 | 50 GB/月 | ¥15/月 | 3  | ![价格](https://img.shields.io/badge/价格-15-yellow) |
+| 🟡 季付 | 150 GB/季 | ¥40/季 | 5  | ![价格](https://img.shields.io/badge/价格-40-orange) |
+| 🔴 年付 | 600 GB/年 | ¥120/年 | 不限 | ![价格](https://img.shields.io/badge/价格-120-red) |
+
+---
+
 
 ---
 
