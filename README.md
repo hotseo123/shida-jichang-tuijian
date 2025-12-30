@@ -89,14 +89,6 @@
 >Linux：Shell Clash / Mihomo Party / Clash Verge Rev / FLClash
 >路由器：OpenClash（OpenWRT） / PassWall
 
-## 📌 推荐原则
-
-1. **稳定性优先**：节点数量/线路稳定性 > 价格  
-2. **协议兼容性**：支持主流客户端（Clash、V2rayN、Shadowrocket 等）  
-3. **流媒体解锁能力**：可解锁常用平台  
-4. **实际使用体验**：延迟、峰值表现、掉线情况  
-5. **合理价格**：价格仅供参考，不是唯一标准  
-
 ---
 
 ## 🛫 十大推荐机场
