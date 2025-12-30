@@ -48,9 +48,7 @@
 
 如果你对稳定性要求很高、预算也够，专线确实是最省心的选择。
 
----
-
-### 一句话总结
+#### 一句话总结
 
 * **预算紧 / 备用** → 直连
 * **性价比 / 日常主力** → 中转
@@ -82,7 +80,14 @@
 * 很多机场是有审计的，别装不知道
 * 延迟低 ≠ 速度快，这俩不是一回事
 
----
+### 客户端
+
+>Windows：Clash Verge Rev / Clash Party / FLClash / Hiddify / v2rayN
+macOS：Clash Party / Clash Verge Rev / ClashX Pro / FLClash / Hiddify / Surge
+iOS：Hiddify / Clash Mi / Karing / Shadowrocket / Quantumult X / Stash / Loon / Surge
+Android：Clash Meta for Android / FLClash / Hiddify / Surfboard / v2rayNG
+Linux：Shell Clash / Mihomo Party / Clash Verge Rev / FLClash
+路由器：OpenClash（OpenWRT） / PassWall
 
 ## 📌 推荐原则
 
