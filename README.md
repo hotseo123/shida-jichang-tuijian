@@ -207,7 +207,7 @@
 - **节点数量**：![节点数](https://img.shields.io/badge/节点-60%2B-brightgreen)  
 - **入口线路**：国内直连 / 海外专线  
 - **支持 UDP**：✅ 是  
-- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-不限-blueh  
 - **客户端支持**：Clash, V2rayN, Shadowrocket, Hiddify  
 - **适用平台**：Windows / macOS / iOS / Android / 路由器  
 - **支付方式**：支付宝 / 微信 / Paypal / USDT  
@@ -226,10 +226,12 @@
 | 轻量套餐     | 100G      | ¥ 18.00/月  | 不限制设备数量，请合理使用    | ![价格](https://img.shields.io/badge/价格-18-yellow)     |
 | 标准套餐     | 300G      | ¥ 28.00/月  | 不限制设备数量，请合理使用    |  ![价格](https://img.shields.io/badge/价格-28-orange)       |
 | 高速套餐     | 600G      | ¥ 50.00/月  | 设备不限并发许可              | ![价格](https://img.shields.io/badge/价格-50-red) |
-| 200G流量包   | 200G      | ¥ 79.00/一次性 | 设备不限并发许可              | ![价格](https://img.shields.io/badge/价格-79-gray |
-| 700G流量包   | 700G      | ¥ 188.00/一次性 | 不限制设备数量，请合理使用    | ![价格](https://img.shields.io/badge/价格-188-black  |
-| 企业套餐     | 2T        | ¥ 200.00/月 | 不限制设备数量，请合理使用    | ![价格](https://img.shields.io/badge/价格-200-green |
-| 1800G流量包  | 1800G     | ¥ 550.00/一次性 | 不限制设备数量，请合理使用    |![价格](https://img.shields.io/badge/价格-550-pink  |
+| 200G流量包   | 200G      | ¥ 79.00/一次性 | 设备不限并发许可              | ![价格](https://img.shields.io/badge/价格-79-gray) |
+| 700G流量包   | 700G      | ¥ 188.00/一次性 | 不限制设备数量，请合理使用    | ![价格](https://img.shields.io/badge/价格-188-black)  |
+| 企业套餐     | 2T        | ¥ 200.00/月 | 不限制设备数量，请合理使用    | ![价格](https://img.shields.io/badge/价格-200-green) |
+| 1800G流量包  | 1800G     | ¥ 550.00/一次性 | 不限制设备数量，请合理使用    |![价格](https://img.shields.io/badge/价格-550-pink)  |
+
+<img width="1338" height="781" alt="Cyberguard机场" src="https://github.com/user-attachments/assets/79414126-6a21-4c94-b4e1-00111d05325f" />
 
 ### 优惠活动
 
