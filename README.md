@@ -155,18 +155,18 @@
 
 ### 🔹 基本信息
 - **服务名称**：奈云机场  
-- **官网 / 注册**：🔗 [点击访问](https://naiyun.example.com)  
-- **Telegram / 联系**：[点击加入](https://t.me/naiyun)  
+- **官网 / 注册**：🔗 [点击访问](https://www.v2ny.me?path=register&code=RRJkLoeU)  
+- **Telegram / 联系**：[点击加入](https://t.me/v2naiun)  
 - **开通时间**：2021 年  
 - **协议支持**：Shadowsocks / V2ray / Trojan  
 - **节点数量**：![节点数](https://img.shields.io/badge/节点-40%2B-brightgreen)  
 - **入口线路**：国内 IEPL / 海外中转  
 - **支持 UDP**：✅ 是  
-- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-不限-blue)  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
 - **客户端支持**：Clash, V2rayN, Surge  
 - **适用平台**：Windows / macOS / iOS / Android / 路由器  
 - **支付方式**：支付宝 / 微信 / USDT  
-- **套餐流量类型**：按量计费 / 周期计费  
+- **套餐流量类型**：按量计费和周期计费
 
 ### ✨ 服务亮点
 - 🌐 节点覆盖广，支持多国线路  
@@ -181,13 +181,28 @@
 | 🟡 季付 | 500 GB/季 | ¥99/季 | 5  | ![价格](https://img.shields.io/badge/价格-99-orange) |
 | 🔴 年付 | 2000 GB/年 | ¥320/年 | 不限 | ![价格](https://img.shields.io/badge/价格-320-red) |
 
+好的，以下是您请求的按表格形式提取的内容：
+
+| 套餐类型     | 流量          | 价格          | 支持设备             | 徽章             |
+|--------------|---------------|----------------|----------------------|------------------|
+| 基础套餐(特惠) | 每月168G      | ¥128.00 /每年  | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-128-yellow) |
+| 进阶套餐     | 每月388G      | ¥28.00 /每月   | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-28-orange) |
+| 专业套餐     | 每月788G      | ¥49.00 /每月   | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-49-red) |
+| 280G [按量计费] | 280G（不限时） | ¥98.00 /一次性 | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-98-gray)  |
+| 680G [按量计费] | 680G（不限时） | ¥218.00 /一次性 | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-218-black) |
+| 2048G [按量计费] | 2048G（不限时） | ¥498.00 /一次性 | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-498-green)  |
+
+
+<img width="1241" height="621" alt="奈云机场" src="https://github.com/user-attachments/assets/8a1f96cd-c4a5-4730-81b2-e3b4c15bbee2" />
+
+
 ---
 
 ## 🧭 Cyberguard机场
 
 ### 🔹 基本信息
 - **服务名称**：Cyberguard机场  
-- **官网 / 注册**：🔗 [点击访问](https://cyberguard.example.com)  
+- **官网 / 注册**：🔗 [点击访问](https://www.v2ny.me?path=register&code=RRJkLoeU)  
 - **Telegram / 联系**：[点击加入](https://t.me/cyberguard)  
 - **开通时间**：2020 年  
 - **协议支持**：Shadowsocks / Trojan / Vmess / VLESS  
