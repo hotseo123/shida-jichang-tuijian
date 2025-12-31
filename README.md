@@ -302,15 +302,16 @@
 - ⚡ 适合远程办公与流媒体使用  
 
 ### 💰 套餐 & 价格
+
 | 套餐类型                    | 流量            | 价格           | 支持设备           | 徽章       |
 |-----------------------------|-----------------|----------------|-------------------|------------|
-| 轻量套餐 Global Acceleration Lite   | 99.99G每月流量  | ¥35.99 /每季度 | [价格](https://img.shields.io/badge/价格-35.99-black)  |
-| 普通套餐 Global Acceleration Standard | 150G每月流量   | ¥46.99 /每季度 | [价格](https://img.shields.io/badge/价格-46.99-gray)  |
-| 中级套餐 Global Acceleration Advanced | 350G每月流量   | ¥29.99 /每月   | [价格](https://img.shields.io/badge/价格-29.99-red)  |
-| 高级套餐 Global Acceleration Ultimate  | 660G每月流量   | ¥48.00 /每月   | [价格](https://img.shields.io/badge/价格-48-yellow)  |
-| 企业套餐 Global Acceleration Enterprise | 企业级无限流量 | ¥300.00 /每月  | [价格](https://img.shields.io/badge/价格-300-blue |
-| 200G年度流量包                      | 200GiB一年有效  | ¥50.00 /每年   | [价格](https://img.shields.io/badge/价格-50-green)  |
-| 300G年度流量包                      | 300GiB一年有效  | ¥70.00 /每年   | [价格](https://img.shields.io/badge/价格-70-orange)  |
+| 轻量套餐 Global Acceleration Lite   | 99.99G每月流量  | ¥35.99 /每季度 | - | [价格](https://img.shields.io/badge/价格-35.99-black)  |
+| 普通套餐 Global Acceleration Standard | 150G每月流量   | ¥46.99 /每季度 |  -  |[价格](https://img.shields.io/badge/价格-46.99-gray)  |
+| 中级套餐 Global Acceleration Advanced | 350G每月流量   | ¥29.99 /每月   |  - |[价格](https://img.shields.io/badge/价格-29.99-red)  |
+| 高级套餐 Global Acceleration Ultimate  | 660G每月流量   | ¥48.00 /每月   |  - |[价格](https://img.shields.io/badge/价格-48-yellow)  |
+| 企业套餐 Global Acceleration Enterprise | 企业级无限流量 | ¥300.00 /每月  |  - |[价格](https://img.shields.io/badge/价格-300-blue |
+| 200G年度流量包                      | 200GiB一年有效  | ¥50.00 /每年   |  - |[价格](https://img.shields.io/badge/价格-50-green)  |
+| 300G年度流量包                      | 300GiB一年有效  | ¥70.00 /每年   |  - |[价格](https://img.shields.io/badge/价格-70-orange)  |
 | 海外IP解锁                        | 每月120G流量   | ¥12.00 /每月   | N/A               | [价格](https://img.shields.io/badge/价格-180-gray)       |
 
 <img width="1297" height="707" alt="雪橇云机场" src="https://github.com/user-attachments/assets/15654d6d-1df4-40d3-8ce6-69c121a67678" />
