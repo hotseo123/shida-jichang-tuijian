@@ -456,7 +456,7 @@
 
 ### 🔹 基本信息
 - **服务名称**：蓝帆云机场  
-- **官网 / 注册**：🔗 [点击访问](https://p.lanfan.me/auth/register?code=yk3V)  
+- **官网 / 注册**：🔗 [点击访问](https://lanfanz.cc/portal/register?code=yk3V)  
 - **Telegram / 联系**：[点击加入](https://t.me/lanfan)  
 - **开通时间**：2021 年  
 - **协议支持**：Shadowsocks / V2ray / Trojan  
