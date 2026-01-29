@@ -102,9 +102,9 @@
 3. [Cyberguard机场](#Cyberguard机场)  
 4. [肥猫云机场](#肥猫云机场)  
 5. [雪橇云机场](#雪橇云机场)  
-6. [红杏云机场](#红杏云机场)  
-7. [WgetCloud机场](#WgetCloud机场)  
-8. [大米机场](#大米机场)  
+6. [红杏云机场](#红杏云机场)
+7. [大米机场](#大米机场)  
+8. [WgetCloud机场](#WgetCloud机场)  
 9. [蓝帆云机场](#蓝帆云机场)  
 10. [赔钱机场](#赔钱机场)  
 
@@ -379,45 +379,10 @@
 
 ---
 
-## WgetCloud机场
+## BigME.Pro大米机场
 
 ### 🔹 基本信息
-- **服务名称**：WgetCloud机场  
-- **官网 / 注册**：🔗 [WgetCloud机场官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV)  
-- **Telegram / 联系**：support@wget.co 
-- **开通时间**：2022 年  
-- **协议支持**：Shadowsocks / V2ray / Trojan / VLESS  
-- **节点数量**：![节点数](https://img.shields.io/badge/节点-50%2B-brightgreen)  
-- **入口线路**：国内 IEPL / 海外专线  
-- **支持 UDP**：✅ 是  
-- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-不限-blue)  
-- **客户端支持**：Clash, V2rayN, Shadowrocket, Hiddify  
-- **适用平台**：Windows / macOS / iOS / Android / 路由器  
-- **支付方式**：支付宝 / 微信 / Paypal / USDT  
-- **套餐流量类型**：按量计费 / 周期计费 / 按量+周期计费  
-
-### ✨ 服务亮点
-- 🌍 全球节点覆盖，延迟低  
-- 🎬 支持 Netflix / Disney+ / YouTube 流媒体  
-- 🔐 协议丰富，多客户端兼容  
-- ⚡ 高稳定性，适合办公和观影  
-
-### 💰 套餐 & 价格
-
-| 套餐类型       | 流量   | 价格  | 支持设备   | 价格徽章        |
-|----------------|--------|-------|------------|------------|
-| 200G 套餐流量扩展包 | 200 G | ￥60 | - | ![价格](https://img.shields.io/badge/价格-60-yellow)  |
-| 400G 套餐流量扩展包 | 400 G | ￥120 | - | ![价格](https://img.shields.io/badge/价格-120-red)  |
-| 600G 套餐流量扩展包 | 600 G | ￥180 | - | ![价格](https://img.shields.io/badge/价格-180-blue)   |
-
-<img width="1411" height="705" alt="WgetCloud机场" src="https://github.com/user-attachments/assets/51e99655-41b5-4c33-93e5-a7ff3c413d38" />
-
----
-
-## 大米机场
-
-### 🔹 基本信息
-- **服务名称**：大米机场  
+- **服务名称**：BigME.Pro大米机场  
 - **官网 / 注册**：🔗 [大米机场官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd)  
 - **Telegram / 联系**：[点击加入](https://t.me/bigme_public)  
 - **开通时间**：2020 年  
@@ -455,6 +420,47 @@
 | 不限时流量Large  | 永久 1600G  | ¥220.00   | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-220-green)          |
 
 <img width="1194" height="807" alt="大米机场" src="https://github.com/user-attachments/assets/39e81e71-ba1b-4c95-81ef-ab21b4ca7721" />
+
+### 优惠活动
+
+- 优惠码：`clashx.cc`
+- 截止时间：长期有效
+- 优惠说明：全场9折
+
+---
+
+## WgetCloud机场
+
+### 🔹 基本信息
+- **服务名称**：WgetCloud机场  
+- **官网 / 注册**：🔗 [WgetCloud机场官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV)  
+- **Telegram / 联系**：support@wget.co 
+- **开通时间**：2022 年  
+- **协议支持**：Shadowsocks / V2ray / Trojan / VLESS  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-50%2B-brightgreen)  
+- **入口线路**：国内 IEPL / 海外专线  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-不限-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket, Hiddify  
+- **适用平台**：Windows / macOS / iOS / Android / 路由器  
+- **支付方式**：支付宝 / 微信 / Paypal / USDT  
+- **套餐流量类型**：按量计费 / 周期计费 / 按量+周期计费  
+
+### ✨ 服务亮点
+- 🌍 全球节点覆盖，延迟低  
+- 🎬 支持 Netflix / Disney+ / YouTube 流媒体  
+- 🔐 协议丰富，多客户端兼容  
+- ⚡ 高稳定性，适合办公和观影  
+
+### 💰 套餐 & 价格
+
+| 套餐类型       | 流量   | 价格  | 支持设备   | 价格徽章        |
+|----------------|--------|-------|------------|------------|
+| 200G 套餐流量扩展包 | 200 G | ￥60 | - | ![价格](https://img.shields.io/badge/价格-60-yellow)  |
+| 400G 套餐流量扩展包 | 400 G | ￥120 | - | ![价格](https://img.shields.io/badge/价格-120-red)  |
+| 600G 套餐流量扩展包 | 600 G | ￥180 | - | ![价格](https://img.shields.io/badge/价格-180-blue)   |
+
+<img width="1411" height="705" alt="WgetCloud机场" src="https://github.com/user-attachments/assets/51e99655-41b5-4c33-93e5-a7ff3c413d38" />
 
 ---
 
@@ -604,7 +610,8 @@
 ---
 
 ## 📌 更新记录
-- 2026‑01‑27：新增[肥猫云机场](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)优惠码
+- 2026‑01‑29：新增[大米机场](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd)9折优惠码
+- 2026‑01‑27：新增[肥猫云机场](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)9折优惠码
 - 2026‑01‑16：更新机场信息和机场链接
 - 2026‑01‑08：更新内容目录 
 - 2025‑12‑28：初始化仓库，整理十大推荐机场，增加客户端大全与使用建议及跑路风险提示  
