@@ -104,7 +104,7 @@
 5. [雪橇云机场](#雪橇云机场)  
 6. [红杏云机场](#红杏云机场)
 7. [大米机场](#大米机场)  
-8. [WgetCloud机场](#WgetCloud机场)  
+8. [疾风云机场](#疾风云机场)  
 9. [蓝帆云机场](#蓝帆云机场)  
 10. [赔钱机场](#赔钱机场)  
 
@@ -429,22 +429,22 @@
 
 ---
 
-## WgetCloud机场
+## 疾风云机场
 
 ### 🔹 基本信息
-- **服务名称**：WgetCloud机场  
-- **官网 / 注册**：🔗 [WgetCloud机场官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV)  
-- **Telegram / 联系**：support@wget.co 
-- **开通时间**：2022 年  
+- **服务名称**：疾风云机场  
+- **官网 / 注册**：🔗 [疾风云机场官网](https://jump.tr25.cn/?code=Vtgm)  
+- **Telegram / 联系**：工单和在线客服
+- **开通时间**：2022年  
 - **协议支持**：Shadowsocks / V2ray / Trojan / VLESS  
-- **节点数量**：![节点数](https://img.shields.io/badge/节点-50%2B-brightgreen)  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-100%2B-brightgreen)  
 - **入口线路**：国内 IEPL / 海外专线  
 - **支持 UDP**：✅ 是  
-- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-不限-blue)  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-10-blue)  
 - **客户端支持**：Clash, V2rayN, Shadowrocket, Hiddify  
 - **适用平台**：Windows / macOS / iOS / Android / 路由器  
-- **支付方式**：支付宝 / 微信 / Paypal / USDT  
-- **套餐流量类型**：按量计费 / 周期计费 / 按量+周期计费  
+- **支付方式**：支付宝 / 微信 
+- **套餐流量类型**：周期计费 
 
 ### ✨ 服务亮点
 - 🌍 全球节点覆盖，延迟低  
@@ -454,14 +454,23 @@
 
 ### 💰 套餐 & 价格
 
-| 套餐类型       | 流量   | 价格  | 支持设备   | 价格徽章        |
-|----------------|--------|-------|------------|------------|
-| 200G 套餐流量扩展包 | 200 G | ￥60 | - | ![价格](https://img.shields.io/badge/价格-60-yellow)  |
-| 400G 套餐流量扩展包 | 400 G | ￥120 | - | ![价格](https://img.shields.io/badge/价格-120-red)  |
-| 600G 套餐流量扩展包 | 600 G | ￥180 | - | ![价格](https://img.shields.io/badge/价格-180-blue)   |
+| 套餐类型       | 流量      | 价格    | 支持设备       | 价格徽章        |
+|--------------|----------|--------|--------------|----------------|
+| 入门版       | 50GB     | ¥13.99 | 2个在线客户端 |  ![价格](https://img.shields.io/badge/价格-14-yellow)              |
+| 基础版       | 100GB    | ¥19.99 | 3个在线客户端 |  ![价格](https://img.shields.io/badge/价格-20-blue)              |
+| 标准版       | 200GB    | ¥29.99 | 3个在线客户端 |  ![价格](https://img.shields.io/badge/价格-30-red)            |
+| 高级版       | 350GB    | ¥39.99 | 5个在线客户端 |  ![价格](https://img.shields.io/badge/价格-40-gray)              |
+| 旗舰版       | 600GB    | ¥59.99 | 8个在线客户端 |  ![价格](https://img.shields.io/badge/价格-60-orange)             |
+| 旗舰版大流量 | 1200GB   | ¥99.99 | 10个在线客户端|   ![价格](https://img.shields.io/badge/价格-60-brightgreen)           |
 
-<img width="1411" height="705" alt="WgetCloud机场" src="https://github.com/user-attachments/assets/51e99655-41b5-4c33-93e5-a7ff3c413d38" />
+<img width="1351" height="786" alt="疾风云机场" src="https://github.com/user-attachments/assets/dd806b9b-71bd-4c41-bb03-bfa30d061128" />
 
+### 优惠活动
+
+- 优惠码：`clashx.cc`
+- 截止时间：长期有效
+- 优惠说明：全场年付7折
+- 
 ---
 
 ## 蓝帆云机场
@@ -610,6 +619,7 @@
 ---
 
 ## 📌 更新记录
+- 2026‑01‑31: 新增[疾风云机场](https://jump.tr25.cn/?code=Vtgm)+年付7折优惠码
 - 2026‑01‑29：新增[大米机场](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd)9折优惠码
 - 2026‑01‑27：新增[肥猫云机场](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)9折优惠码
 - 2026‑01‑16：更新机场信息和机场链接
