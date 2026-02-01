@@ -649,6 +649,7 @@
 ---
 
 ## 📌 更新记录
+- 2026‑02‑01: 新增[CyberGuard机场](https://www.cyberguard.best/#/register?code=kEVKDdQ0)2月优惠活动
 - 2026‑01‑31: 新增[疾风云机场](https://jump.tr25.cn/?code=Vtgm)+年付7折优惠码
 - 2026‑01‑29：新增[大米机场](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd)9折优惠码
 - 2026‑01‑27：新增[肥猫云机场](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)9折优惠码
