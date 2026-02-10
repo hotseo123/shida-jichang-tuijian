@@ -661,7 +661,9 @@
 - 2026‑01‑27：新增[肥猫云机场](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)9折优惠码
 - 2026‑01‑16：更新机场信息和机场链接
 - 2026‑01‑08：更新内容目录 
-- 2025‑12‑28：初始化仓库，整理十大推荐机场，增加客户端大全与使用建议及跑路风险提示  
+- 2025‑12‑28：初始化仓库，整理十大推荐机场，增加客户端大全与使用建议及跑路风险提示
+
+<img src="https://komarev.com/ghpvc/?username=hotseo123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 ---
 
