@@ -663,7 +663,7 @@
 - 2026‑01‑08：更新内容目录 
 - 2025‑12‑28：初始化仓库，整理十大推荐机场，增加客户端大全与使用建议及跑路风险提示
 
-<img src="https://komarev.com/ghpvc/?username=hotseo123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=hotseo123&label=MyProfile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 ---
 
