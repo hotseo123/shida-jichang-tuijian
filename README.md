@@ -399,11 +399,17 @@
 <img width="1384" height="679" alt="红杏云机场" src="https://github.com/user-attachments/assets/e1e8ef86-18f1-4397-9245-4fe33c052c8e" />
 
 
-### 优惠活动
+### 优惠活动1
 
 - 优惠码：`clashx.cc`
 - 截止时间：长期有效
 - 优惠说明：全场8折
+
+### 优惠活动2
+
+- 优惠码：`红杏2026`
+- 截止时间：2026/02/23
+- 优惠说明：新春活动，全场8.8折
 
 ---
 
@@ -504,7 +510,6 @@
 - 优惠码：`clashx.cc`
 - 截止时间：长期有效
 - 优惠说明：全场年付7折
-
 
 ---
 
@@ -654,6 +659,7 @@
 ---
 
 ## 📌 更新记录
+- 2026‑02‑03: 新增机场新春优惠活动
 - 2026‑02‑03: 新增[奈云机场](https://www.v2ny.me?path=register&code=RRJkLoeU)2月新春特惠活动
 - 2026‑02‑01: 新增[CyberGuard机场](https://www.cyberguard.best/#/register?code=kEVKDdQ0)2月优惠活动
 - 2026‑01‑31: 新增[疾风云机场](https://jump.tr25.cn/?code=Vtgm)+年付7折优惠码
