@@ -602,6 +602,11 @@
 
 <img width="1432" height="767" alt="赔钱机场" src="https://github.com/user-attachments/assets/a9ce7ee2-6c05-49bb-8518-902d9fb7452e" />
 
+### 新春优惠活动
+
+- 优惠码：`新年快乐`
+- 截止时间：2月25日
+- 优惠说明：全场年付7折， 本来就是低价，加上折扣可以说非常便宜了
 ---
 
 ## 📌 使用建议
@@ -667,6 +672,7 @@
 ---
 
 ## 📌 更新记录
+- 2026-02-15: 新增赔钱机场新春7折优惠活动
 - 2026‑02‑13: 新增肥猫云机场新春优惠活动, 最低48折扣
 - 2026‑02‑03: 新增[奈云机场](https://www.v2ny.me?path=register&code=RRJkLoeU)2月新春特惠活动
 - 2026‑02‑01: 新增[CyberGuard机场](https://www.cyberguard.best/#/register?code=kEVKDdQ0)2月优惠活动
