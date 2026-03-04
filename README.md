@@ -188,16 +188,16 @@
 
 <img width="1241" height="621" alt="奈云机场" src="https://github.com/user-attachments/assets/8a1f96cd-c4a5-4730-81b2-e3b4c15bbee2" />
 
-### 优惠活动1
+### 长期优惠活动
 
 - 优惠码：`11meigui`
 - 截止时间：长期有效
 - 优惠说明：全场8折
 
-### 春节优惠活动
+### 奈云妇女节优惠活动
 - 优惠力度：全场75折
-- 优惠码：`0217`
-- 有效期：2026年03月03日 
+- 优惠码：`0308`
+- 有效期：2026年03月31日 
 
 ---
 
@@ -662,6 +662,7 @@ CyberGuard 3月福利！
 ---
 
 ## 📌 更新记录
+- 2026-03-04: 新增奈云机场妇女节优惠活动
 - 2026-03-02: 新增[Cyberguard机场](https://www.cyberguard.best/#/register?code=kEVKDdQ0)3月优惠活动
 - 2026-03-01: 删除新春过期的机场优惠活动
 - 2026-02-17: 新增[雪橇云机场](https://cloud.sleddc9.com/#/register?code=TkO6RxBp)新春8折优惠码
