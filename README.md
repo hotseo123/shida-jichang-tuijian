@@ -555,6 +555,13 @@ CyberGuard 3月福利！
 
 <img width="1350" height="790" alt="蓝帆云机场" src="https://github.com/user-attachments/assets/8e08079b-e744-4f88-a664-5a05c98bc68e" />
 
+
+### 优惠活动
+
+- 优惠码：`lanfan`
+- 截止时间：长期有效
+- 优惠说明：年付7折优惠
+
 ---
 
 ## 赔钱机场
@@ -662,6 +669,7 @@ CyberGuard 3月福利！
 ---
 
 ## 📌 更新记录
+- 2026-03-08: 新增[蓝帆云](https://lanfanz.cc/portal/register?code=yk3V)年付7折优惠码
 - 2026-03-04: 新增奈云机场妇女节优惠活动
 - 2026-03-02: 新增[Cyberguard机场](https://www.cyberguard.best/#/register?code=kEVKDdQ0)3月优惠活动
 - 2026-03-01: 删除新春过期的机场优惠活动
