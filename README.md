@@ -481,12 +481,11 @@ CyberGuard 4月福利！
 
 | 套餐类型       | 流量      | 价格    | 支持设备       | 价格徽章        |
 |--------------|----------|--------|--------------|----------------|
-| 入门版       | 50GB     | ¥13.99 | 2个在线客户端 |  ![价格](https://img.shields.io/badge/价格-14-yellow)              |
 | 基础版       | 100GB    | ¥19.99 | 3个在线客户端 |  ![价格](https://img.shields.io/badge/价格-20-blue)              |
 | 标准版       | 200GB    | ¥29.99 | 3个在线客户端 |  ![价格](https://img.shields.io/badge/价格-30-red)            |
 | 高级版       | 350GB    | ¥39.99 | 5个在线客户端 |  ![价格](https://img.shields.io/badge/价格-40-gray)              |
 | 旗舰版       | 600GB    | ¥59.99 | 8个在线客户端 |  ![价格](https://img.shields.io/badge/价格-60-orange)             |
-| 旗舰版大流量 | 1200GB   | ¥99.99 | 10个在线客户端|   ![价格](https://img.shields.io/badge/价格-60-brightgreen)           |
+| 旗舰版大流量 | 1200GB   | ¥99.99 | 10个在线客户端|   ![价格](https://img.shields.io/badge/价格-100-brightgreen)           |
 
 <img width="1351" height="786" alt="疾风云机场" src="https://github.com/user-attachments/assets/dd806b9b-71bd-4c41-bb03-bfa30d061128" />
 
@@ -648,7 +647,7 @@ CyberGuard 4月福利！
 ---
 
 ## 📌 更新记录
-- 2026-04-09: 更新选购建议
+- 2026-04-12: 疾风云机场由于成本上升，下架¥13.99入门版套餐 
 - 2026-04-06: 下架奈云机场3月过期优惠活动
 - 2026-04-02: 新增CyberGuard 4月福利活动
 - 2026-03-27: 更新机场描述
