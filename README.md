@@ -271,7 +271,7 @@ CyberGuard 4月福利！
 
 ### 🔹 基本信息
 - **服务名称**：肥猫云机场  
-- **官网 / 注册**：🔗 [肥猫云机场官网](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)  
+- **官网 / 注册**：🔗 [肥猫云机场官网](https://go2lk.pages.dev/um2wxw)  
 - **Telegram / 联系**：[点击加入](https://t.me/fatcatcloud)  
 - **开通时间**：2021 年  
 - **协议支持**：Shadowsocks / Trojan  
