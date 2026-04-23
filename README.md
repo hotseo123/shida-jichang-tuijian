@@ -444,7 +444,8 @@ CyberGuard 4月福利！
 | 不限时流量Big    | 永久 800G   | ¥109.00   | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-109-black)            |
 | 不限时流量Large  | 永久 1600G  | ¥220.00   | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-220-green)          |
 
-<img width="1194" height="807" alt="大米机场" src="https://github.com/user-attachments/assets/39e81e71-ba1b-4c95-81ef-ab21b4ca7721" />
+<img width="1405" height="792" alt="大米机场" src="https://github.com/user-attachments/assets/66793533-e578-4093-9ccb-b17f4ea8fee0" />
+
 
 ### 优惠活动
 
@@ -653,6 +654,7 @@ CyberGuard 4月福利！
 ---
 
 ## 📌 更新记录
+- 2026-04-23: 更新大米机场套餐截图信息
 - 2026-04-20: 更新肥猫云机场客户端支付情况
 - 2026-04-17: 新增疾风云机场包年和半年付优惠码
 - 2026-04-12: 疾风云机场由于成本上升，下架¥13.99入门版套餐 
