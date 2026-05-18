@@ -285,7 +285,7 @@
 
 <img width="1408" height="771" alt="肥猫云机场" src="https://github.com/user-attachments/assets/cf10141a-344c-4e80-a969-86129ad21a3c" />
 
-### 优惠活动
+### 长期优惠活动
 
 - 优惠码：`clashx.cc`
 - 截止时间：长期有效
