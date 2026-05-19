@@ -331,7 +331,7 @@
 
 <img width="1297" height="707" alt="雪橇云机场" src="https://github.com/user-attachments/assets/15654d6d-1df4-40d3-8ce6-69c121a67678" />
 
-### 优惠活动
+### 长期优惠活动
 
 - 优惠码：`11meigui`
 - 截止时间：长期有效
