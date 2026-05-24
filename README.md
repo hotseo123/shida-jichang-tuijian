@@ -146,7 +146,7 @@
 
 <img width="1008" height="488" alt="一枝红杏加速器" src="https://github.com/user-attachments/assets/06944dff-e301-41c6-9fcc-68b2ffc5f46f" />
 
-### 优惠活动
+### 长期优惠活动
 
 - 优惠码：`11meigui`
 - 截止时间：长期有效
