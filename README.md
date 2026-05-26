@@ -436,7 +436,7 @@
 
 ### 🔹 基本信息
 - **服务名称**：疾风云机场  
-- **官网 / 注册**：🔗 [疾风云机场官网](https://jump.tr25.cn/?code=Vtgm)  
+- **官网 / 注册**：🔗 [疾风云机场官网](https://go2lk.pages.dev/cwewxe)  
 - **Telegram / 联系**：工单和在线客服
 - **开通时间**：2022年  
 - **协议支持**：Shadowsocks / V2ray / Trojan / VLESS  
