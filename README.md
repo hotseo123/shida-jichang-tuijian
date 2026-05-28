@@ -158,7 +158,7 @@
 
 ### 🔹 基本信息
 - **服务名称**：奈云机场  
-- **官网 / 注册**：🔗 [奈云机场官网](https://www.v2ny.com/#/register?code=pXP6CaiD)  
+- **官网 / 注册**：🔗 [奈云机场官网](https://go2lk.pages.dev/dq27tj)  
 - **Telegram / 联系**：[点击加入](https://t.me/v2naiun)  
 - **开通时间**：2021 年  
 - **协议支持**：Shadowsocks / V2ray / Trojan  
