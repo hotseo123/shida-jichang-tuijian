@@ -118,9 +118,7 @@
 
 一个优质的 **BGP中转机场**，实际体验往往比宣传华丽但维护不佳的所谓“专线机场”更好。
 
-一张图看懂三者关系
-
-<img width="1536" height="1024" alt="机场类型线路类型原生IP" src="https://github.com/user-attachments/assets/9f53921a-8b49-47dd-9cc1-4cf19d1d2b0f" />
+<img width="1536" height="1024" alt="一张图看懂三者关系机场类型线路类型原生IP" src="https://github.com/user-attachments/assets/9f53921a-8b49-47dd-9cc1-4cf19d1d2b0f" />
 
 #### 一句话总结
 
