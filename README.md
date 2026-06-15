@@ -188,7 +188,7 @@
 ### 🔹 基本信息
 - **服务名称**：一枝红杏加速器
 - **公司地址**：澳大利亚
-- **官网 / 注册**：🔗 [一枝红杏加速器官网](https://order.yizhihongxing.club/aff.php?aff=17788)  
+- **官网 / 注册**：🔗 [一枝红杏加速器官网](https://order.yizhihongxing.org/aff.php?aff=17788)  
 - **Telegram / 联系**：提交工单 
 - **开通时间**：2014年  
 - **协议支持**：Trojan
