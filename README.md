@@ -157,14 +157,14 @@
 
 ### 客户端
 
->Windows：Clash Verge Rev / Clash Party / FLClash / Hiddify / v2rayN <br>
->macOS：Clash Party / Clash Verge Rev / ClashX Pro / FLClash / Hiddify / Surge<br>
->iOS：Hiddify / Clash Mi / Karing / Shadowrocket / Quantumult X / Stash / Loon / Surge<br>
->Android：Clash Meta for Android / FLClash / Hiddify / Surfboard / v2rayNG<br>
->Linux：Shell Clash / Mihomo Party / Clash Verge Rev / FLClash<br>
->路由器：OpenClash（OpenWRT） / PassWall
+>**Windows**：Clash Verge Rev / Clash Party / FLClash / Hiddify / v2rayN <br>
+>**macOS**：Clash Party / Clash Verge Rev / ClashX Pro / FLClash / Hiddify / Surge<br>
+>**iOS**：Hiddify / Clash Mi / Karing / Shadowrocket / Quantumult X / Stash / Loon / Surge<br>
+>**Android**：Clash Meta for Android / FLClash / Hiddify / Surfboard / v2rayNG<br>
+>**Linux**：Shell Clash / Mihomo Party / Clash Verge Rev / FLClash<br>
+>**路由器**：OpenClash（OpenWRT） / PassWall <br>
+> → [2026最新机场客户端汇总](https://github.com/hotseo123/airport-clients-for-beginners)
 
----
 
 ## 📑 目录
 
