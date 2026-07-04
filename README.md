@@ -600,7 +600,7 @@
 ### 🔹 基本信息
 - **服务名称**：奈云机场  
 - **官网 / 注册**：🔗 [奈云机场官网](https://go2lk.pages.dev/dq27tj)  
-- **Telegram / 联系**：[点击加入](https://t.me/v2naiun)  
+- **Telegram / 联系**：[点击加入](https://t.me/v2naiyun)
 - **开通时间**：2021 年  
 - **协议支持**：Shadowsocks / V2ray / Trojan  
 - **节点数量**：![节点数](https://img.shields.io/badge/节点-40%2B-brightgreen)  
