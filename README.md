@@ -631,6 +631,9 @@
 
 <img width="1241" height="621" alt="奈云机场" src="https://github.com/user-attachments/assets/8a1f96cd-c4a5-4730-81b2-e3b4c15bbee2" />
 
+
+**新注册用户可免费领取10天/50GB套餐**
+
 ### 长期优惠活动
 
 - 优惠码：`11meigui`
@@ -638,6 +641,7 @@
 - 优惠说明：全场8折
 
 ### 最新活动
+
 奈云国内部分团队失联，相关业务现已由海外团队全面接管并正在全力恢复
 
 - 优惠码: `RENEW_NAIUN_ONE`
