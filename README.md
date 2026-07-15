@@ -17,7 +17,7 @@
 7. [疾风云机场](#疾风云机场)  
 8. [蓝帆云机场](#蓝帆云机场)  
 9. [赔钱机场](#赔钱机场)
-10. [奈云机场](#奈云机场)  
+10. [WgetCloud机场](#WgetCloud机场)  
 
 ### 机场类型简单说一下（直连/中转/专线）
 
@@ -595,59 +595,58 @@
 
 ---
 
-## 奈云机场
+## WgetCloud机场
+
+WgetCloud 是目前口碑较好的精品机场之一，自2021年运营以来一直保持较高的稳定性。机场主要采用 **Trojan 协议**，配合 **BGP 中转** 与 **IEPL/IPLC 专线**，晚高峰表现优秀，网络延迟较低。在流媒体解锁方面，WgetCloud 支持 Netflix、Disney+、YouTube Premium 等多个平台，同时能够稳定访问 ChatGPT、Claude、Gemini 等 AI 服务，适合学习、办公及日常娱乐使用。
 
 ### 🔹 基本信息
-- **服务名称**：奈云机场  
-- **官网 / 注册**：🔗 [奈云机场官网](https://go2lk.pages.dev/dq27tj)  
-- **Telegram / 联系**：[点击加入](https://t.me/v2naiyun)
-- **开通时间**：2021 年  
-- **协议支持**：Shadowsocks / V2ray / Trojan  
-- **节点数量**：![节点数](https://img.shields.io/badge/节点-40%2B-brightgreen)  
-- **入口线路**：国内 IEPL / 海外中转  
-- **支持 UDP**：✅ 是  
-- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
-- **客户端支持**：Clash, V2rayN, Surge  
-- **适用平台**：Windows / macOS / iOS / Android / 路由器  
-- **支付方式**：支付宝 / 微信 / USDT  
-- **套餐流量类型**：按量计费和周期计费
 
-### ✨ 服务亮点
-- 🌐 节点覆盖广，支持多国线路  
-- 🎥 流媒体解锁效果良好  
-- ⚡ 高稳定性，支持高峰期使用  
-- 🔗 多协议兼容，客户端选择丰富  
+- **服务名称：** WgetCloud 机场
+- **官网 / 注册：** 🔗 [WgetCloud官网](https://go2lk.pages.dev/p6d3uc)
+- **Telegram / 联系：** 官网工单 / Telegram 社区
+- **开通时间：** 2021 年（原 GaCloud）
+- **协议支持：** Trojan
+- **节点数量：** 70+ 精品节点（持续更新）
+- **入口线路：** 国内 BGP 中转 / IEPL 专线 / IPLC 专线（不同套餐可用线路有所区别）
+- **支持 UDP：** ✅ 是
+- **设备数量限制：** 不同套餐限制设备数量不同（合理使用，禁止多人共享）
+- **客户端支持：** Clash、Clash Verge Rev、Clash Meta、Shadowrocket、Surge、Stash、sing-box、FlClash、Hiddify Next 等
+- **适用平台：** Windows / macOS / iOS / Android / Linux / 路由器
+- **支付方式：** 支付宝 / 微信支付
+- **套餐流量类型：** 周期订阅（年付）
 
-### 💰 套餐 & 价格
+## ✨ 服务亮点
+
+- 🌐 覆盖香港、日本、新加坡、台湾、美国、韩国、英国、德国、澳大利亚等多个热门地区
+- 🚀 BGP 中转 + IEPL/IPLC 精品专线，晚高峰速度稳定
+- 🎥 支持 Netflix、Disney+、YouTube Premium、HBO Max、TikTok 等主流流媒体解锁
+- 🤖 支持 ChatGPT、Claude、Gemini、Copilot 等 AI 服务访问
+- ⚡ 全站 Trojan 协议，安全性高，兼容主流客户端
+- 📈 精品线路针对游戏、远程办公、4K 视频及 AI 应用进行了优化
+
+### 📌 适合人群
+
+* AI 工具（ChatGPT、Claude、Gemini）重度用户
+* 4K 视频、Netflix、Disney+ 观看需求
+* 海外办公、远程开发人员
+* 对晚高峰稳定性要求较高的用户
+* 希望长期稳定使用精品线路的用户
+
+### 优惠活动
+
+- 注册新用户85折优惠体验
+
+## 💰 套餐 & 价格
 
 | 套餐类型     | 流量          | 价格          | 支持设备             | 价格徽章              |
 |--------------|---------------|----------------|----------------------|------------------|
-| 基础套餐(特惠) | 每月168G      | ¥128.00 /每年  | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-128-yellow) |
-| 进阶套餐     | 每月388G      | ¥28.00 /每月   | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-28-orange) |
-| 专业套餐     | 每月788G      | ¥49.00 /每月   | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-49-red) |
-| 280G [按量计费] | 280G（不限时） | ¥98.00 /一次性 | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-98-gray)  |
-| 680G [按量计费] | 680G（不限时） | ¥218.00 /一次性 | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-218-black) |
-| 2048G [按量计费] | 2048G（不限时） | ¥498.00 /一次性 | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-498-green)  |
+| 基础专线服务 | 每月280G      | ¥79/每年  | 可支持3台设备同时接入 | ![价格](https://img.shields.io/badge/价格-79-yellow) |
+| 优质专线服务 | 每月320G      | ¥89 /每月   | 可支持4台设备同时接入 | ![价格](https://img.shields.io/badge/价格-89-orange) |
+| 精品专线服务  | 每月360G      | ¥99 /每月   | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-99-red) |
+| 精品团队套餐-M | 每月2880G  | ¥872/每月 | 可支持20台设备同时接入 | ![价格](https://img.shields.io/badge/价格-872-gray)  |
+| 精品团队套餐-L | 每月5760G | ¥1267/每月| 可支持40台设备同时接入 | ![价格](https://img.shields.io/badge/价格-1267-black) |
 
-<img width="1241" height="621" alt="奈云机场" src="https://github.com/user-attachments/assets/8a1f96cd-c4a5-4730-81b2-e3b4c15bbee2" />
-
-
-**新注册用户可免费领取10天/50GB套餐**
-
-### 长期优惠活动
-
-- 优惠码：`11meigui`
-- 截止时间：长期有效
-- 优惠说明：全场8折
-
-### 最新活动
-
-奈云国内部分团队失联，相关业务现已由海外团队全面接管并正在全力恢复
-
-- 优惠码: `RENEW_NAIUN_ONE`
-- 折扣:每位用户限一次，六折
-- 范围:可用于新购、续费，全部套餐可用
-- 有效期:2026.07.06 - 2026.07.20 23:59
+<img width="1393" height="802" alt="WgetCloud机场套餐" src="https://github.com/user-attachments/assets/e9ff0eba-0e51-43e9-8e50-19c65d2f62d4" />
 
 ## 📌 机场使用建议
 
@@ -806,6 +805,7 @@
 ---
 
 ## 📌 更新记录
+- 2026-07-15： 奈云国内团队失联，服务质量不稳定，上架WgetCloud机场
 - 2026-07-07: 更新奈云机场官网链接和优惠信息
 - 2026-06-23: 下架赔钱机场端午节优惠
 - 2026-06-13: 新增赔钱机场端午节优惠
