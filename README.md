@@ -603,7 +603,7 @@ WgetCloud 是目前口碑较好的精品机场之一，自2021年运营以来一
 
 - **服务名称：** WgetCloud 机场
 - **官网 / 注册：** 🔗 [WgetCloud官网](https://go2lk.pages.dev/p6d3uc)
-- **Telegram / 联系：** 官网工单 / Telegram 社区
+- **Telegram / 联系：** 官网工单 / 在线客服
 - **开通时间：** 2021 年（原 GaCloud）
 - **协议支持：** Trojan
 - **节点数量：** 70+ 精品节点（持续更新）
