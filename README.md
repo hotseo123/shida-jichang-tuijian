@@ -186,8 +186,8 @@
 ## 一枝红杏加速器
 
 ### 🔹 基本信息
-- **服务名称**：一枝红杏加速器
-- **公司地址**：澳大利亚
+- **机场名称**：一枝红杏加速器
+- **机场公司地址**：澳大利亚
 - **官网 / 注册**：🔗 [一枝红杏加速器官网](https://order.yizhihongxing.org/aff.php?aff=17788)  
 - **Telegram / 联系**：提交工单 
 - **开通时间**：2014年  
@@ -227,8 +227,8 @@
 ## Cyberguard机场
 
 ### 🔹 基本信息
-- **服务名称**：Cyberguard机场  
-- **官网 / 注册**：🔗 [Cyberguard机场官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)  
+- **机场名称**：Cyberguard机场  
+- **机场官网 / 注册**：🔗 [Cyberguard机场官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)  
 - **Telegram / 联系**：[点击加入](https://t.me/CyberGuardChat)  
 - **开通时间**：2020 年  
 - **协议支持**：Shadowsocks / Trojan / Vmess / VLESS  
@@ -272,7 +272,7 @@
 ## 肥猫云机场
 
 ### 🔹 基本信息
-- **服务名称**：肥猫云机场  
+- **机场名称**：肥猫云机场  
 - **官网 / 注册**：🔗 [肥猫云机场官网](https://go2lk.pages.dev/um2wxw)  
 - **Telegram / 联系**：[点击加入](https://t.me/fatcatcloud)  
 - **开通时间**：2021 年  
@@ -315,7 +315,7 @@
 ## 雪橇云机场
 
 ### 🔹 基本信息
-- **服务名称**：雪橇云机场  
+- **机场名称**：雪橇云机场  
 - **官网 / 注册**：🔗 [雪橇云机场官网](https://www.sleddc9.com/#/register?code=TkO6RxBp)  
 - **Telegram / 联系**：[点击加入](https://t.me/sledcloud)  
 - **开通时间**：2022 年  
@@ -361,7 +361,7 @@
 ## 红杏云机场
 
 ### 🔹 基本信息
-- **服务名称**：红杏云机场  
+- **机场名称**：红杏云机场  
 - **官网 / 注册**：🔗 [红杏云机场官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV)  
 - **Telegram / 联系**：[点击加入](https://t.me/Hongxingyun_bot)  
 - **开通时间**：2021 年  
@@ -409,7 +409,7 @@
 ## 大米机场
 
 ### 🔹 基本信息
-- **服务名称**：BigME.Pro大米机场  
+- **机场名称**：BigME.Pro大米机场  
 - **官网 / 注册**：🔗 [大米机场官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd)  
 - **Telegram / 联系**：[点击加入](https://t.me/bigme_public)  
 - **开通时间**：2020 年  
@@ -460,7 +460,7 @@
 ## 疾风云机场
 
 ### 🔹 基本信息
-- **服务名称**：疾风云机场  
+- **机场名称**：疾风云机场  
 - **官网 / 注册**：🔗 [疾风云机场官网](https://go2lk.pages.dev/cwewxe)  
 - **Telegram / 联系**：工单和在线客服
 - **开通时间**：2022年  
@@ -510,7 +510,7 @@
 ## 蓝帆云机场
 
 ### 🔹 基本信息
-- **服务名称**：蓝帆云机场  
+- **机场名称**：蓝帆云机场  
 - **官网 / 注册**：🔗 [蓝帆云机场官网](https://go2lk.pages.dev/6t7yf3)  
 - **Telegram / 联系**：[点击加入](https://t.me/lanfan)  
 - **开通时间**：2021 年  
@@ -554,7 +554,7 @@
 ## 赔钱机场
 
 ### 🔹 基本信息
-- **服务名称**：赔钱机场  
+- **机场名称**：赔钱机场  
 - **官网 / 注册**：🔗 [赔钱机场官网](https://xn--cp3a08l.com/#/register?code=RJXPmRBE)  
 - **Telegram / 联系**：工单系统
 - **开通时间**：2020 年  
@@ -601,7 +601,7 @@ WgetCloud 是目前口碑较好的精品机场之一，自2021年运营以来一
 
 ### 🔹 基本信息
 
-- **服务名称：** WgetCloud 机场
+- **机场名称：** WgetCloud机场
 - **官网 / 注册：** 🔗 [WgetCloud官网](https://go2lk.pages.dev/p6d3uc)
 - **Telegram / 联系：** 官网工单 / 在线客服
 - **开通时间：** 2021 年（原 GaCloud）
