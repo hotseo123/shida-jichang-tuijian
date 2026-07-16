@@ -640,11 +640,11 @@ WgetCloud 是目前口碑较好的精品机场之一，自2021年运营以来一
 
 | 套餐类型     | 流量          | 价格          | 支持设备             | 价格徽章              |
 |--------------|---------------|----------------|----------------------|------------------|
-| 基础专线服务 | 每月280G      | ¥79/每年  | 可支持3台设备同时接入 | ![价格](https://img.shields.io/badge/价格-79-yellow) |
-| 优质专线服务 | 每月320G      | ¥89 /每月   | 可支持4台设备同时接入 | ![价格](https://img.shields.io/badge/价格-89-orange) |
-| 精品专线服务  | 每月360G      | ¥99 /每月   | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-99-red) |
-| 精品团队套餐-M | 每月2880G  | ¥872/每月 | 可支持20台设备同时接入 | ![价格](https://img.shields.io/badge/价格-872-gray)  |
-| 精品团队套餐-L | 每月5760G | ¥1267/每月| 可支持40台设备同时接入 | ![价格](https://img.shields.io/badge/价格-1267-black) |
+| 基础专线服务 | 每月280G      | ¥79 / 每月 | 可支持3台设备同时接入 | ![价格](https://img.shields.io/badge/价格-79-yellow) |
+| 优质专线服务 | 每月320G      | ¥89 / 每月   | 可支持4台设备同时接入 | ![价格](https://img.shields.io/badge/价格-89-orange) |
+| 精品专线服务  | 每月360G      | ¥99 / 每月   | 可支持5台设备同时接入 | ![价格](https://img.shields.io/badge/价格-99-red) |
+| 精品团队套餐-M | 每月2880G  | ¥872 / 每月 | 可支持20台设备同时接入 | ![价格](https://img.shields.io/badge/价格-872-gray)  |
+| 精品团队套餐-L | 每月5760G | ¥1267 / 每月| 可支持40台设备同时接入 | ![价格](https://img.shields.io/badge/价格-1267-black) |
 
 <img width="1393" height="802" alt="WgetCloud机场套餐" src="https://github.com/user-attachments/assets/e9ff0eba-0e51-43e9-8e50-19c65d2f62d4" />
 
