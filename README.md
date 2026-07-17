@@ -385,15 +385,15 @@
 
 | 套餐类型             | 流量           | 价格    | 支持设备          | 价格徽章  |
 |----------------------|----------------|---------|-------------------|------|
-| 轻量-包月200G        | 200 GB/月      | ¥18.00  | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-18-red)     |
-| 冲浪-包月500G        | 500 GB/月      | ¥38.00  | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-38-gray)    |
-| 豪华-包月800G「火爆」| 800 GB/月      | ¥58.00  | 不限制，支持家庭成员共享 | ![价格](https://img.shields.io/badge/价格-58-yellow)   |
-| 大师-包月1200G       | 1200 GB/月     | ¥78.00  | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-78-orange)    |
-| 轻量-不限时1000G     | 1000 GB/用完为止 | ¥138.00 | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-138-gray)    |
-| 冲浪-不限时2000G     | 2000 GB/用完为止 | ¥258.00 | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-258-black)    |
-| 高级-不限时3000G「火爆」| 3000 GB/用完为止 | ¥368.00 | 不限制，支持家庭成员共享 | ![价格](https://img.shields.io/badge/价格-368-blue)  |
-| 豪华-不限时6000G     | 6000 GB/用完为止 | ¥688.00 | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-688-red)     |
-| 大师-不限时9000G     | 9000 GB/用完为止 | ¥898.00 | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-898-green)     |
+| 轻量-包月200G        | 200 GB/月      | ¥18.00/月  | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-18-red)     |
+| 冲浪-包月500G        | 500 GB/月      | ¥38.00/月  | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-38-gray)    |
+| 豪华-包月800G「火爆」| 800 GB/月      | ¥58.00/月  | 不限制，支持家庭成员共享 | ![价格](https://img.shields.io/badge/价格-58-yellow)   |
+| 大师-包月1200G       | 1200 GB/月     | ¥78.00/月  | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-78-orange)    |
+| 轻量-不限时1000G     | 1000 GB/用完为止 | ¥138.00/月 | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-138-gray)    |
+| 冲浪-不限时2000G     | 2000 GB/用完为止 | ¥258.00/月 | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-258-black)    |
+| 高级-不限时3000G「火爆」| 3000 GB/用完为止 | ¥368.00/月 | 不限制，支持家庭成员共享 | ![价格](https://img.shields.io/badge/价格-368-blue)  |
+| 豪华-不限时6000G     | 6000 GB/用完为止 | ¥688.00/月 | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-688-red)     |
+| 大师-不限时9000G     | 9000 GB/用完为止 | ¥898.00/月 | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-898-green)     |
 
 <img width="1384" height="679" alt="红杏云机场" src="https://github.com/user-attachments/assets/e1e8ef86-18f1-4397-9245-4fe33c052c8e" />
 
@@ -434,17 +434,17 @@
 | 套餐类型         | 流量        | 价格      | 支持设备              | 价格徽章           |
 |------------------|-------------|-----------|-----------------------|---------------|
 | 试用套餐         | -           | ¥999.00   | -                     | ![价格](https://img.shields.io/badge/价格-999-red)           |
-| 超小Experience    | 每月 45G    | ¥6.00     | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-6-blue)          |
-| 中流量Elite      | 每月 120G   | ¥10.00    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-10-green)           |
-| 大流量Premium    | 每月 250G   | ¥20.00    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-20-gray)           |
-| 畅享套餐Enjoy     | 每月 400G   | ¥30.00    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-30-black)           |
-| 无忧套餐Carefree  | 每月 560G   | ¥40.00    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-40-yellow)            |
-| 放纵套餐Fuck      | 每月 800G   | ¥55.00    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-55-orange)           |
-| 超级套餐Super     | 每月 1600G  | ¥110.00   | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-110-red)           |
-| 不限时流量Small  | 永久 400G   | ¥60.00    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-60-blue)           |
-| 不限时流量Medium | 永久 600G   | ¥82.00    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-82-gray)          |
-| 不限时流量Big    | 永久 800G   | ¥109.00   | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-109-black)            |
-| 不限时流量Large  | 永久 1600G  | ¥220.00   | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-220-green)          |
+| 超小Experience    | 每月 45G    | ¥6.00/月     | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-6-blue)          |
+| 中流量Elite      | 每月 120G   | ¥10.00/月    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-10-green)           |
+| 大流量Premium    | 每月 250G   | ¥20.00/月   | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-20-gray)           |
+| 畅享套餐Enjoy     | 每月 400G   | ¥30.00/月    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-30-black)           |
+| 无忧套餐Carefree  | 每月 560G   | ¥40.00/月    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-40-yellow)            |
+| 放纵套餐Fuck      | 每月 800G   | ¥55.00/月    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-55-orange)           |
+| 超级套餐Super     | 每月 1600G  | ¥110.00/月   | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-110-red)           |
+| 不限时流量Small  | 永久 400G   | ¥60.00/次   | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-60-blue)           |
+| 不限时流量Medium | 永久 600G   | ¥82.00/次     | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-82-gray)          |
+| 不限时流量Big    | 永久 800G   | ¥109.00/次    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-109-black)            |
+| 不限时流量Large  | 永久 1600G  | ¥220.00/次    | 电视、电脑、手机等    | ![价格](https://img.shields.io/badge/价格-220-green)          |
 
 <img width="1405" height="792" alt="大米机场" src="https://github.com/user-attachments/assets/66793533-e578-4093-9ccb-b17f4ea8fee0" />
 
