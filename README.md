@@ -484,11 +484,11 @@
 
 | 套餐类型       | 流量      | 价格    | 支持设备       | 价格徽章        |
 |--------------|----------|--------|--------------|----------------|
-| 基础版       | 100GB    | ¥19.99 | 3个在线客户端 |  ![价格](https://img.shields.io/badge/价格-20-blue)              |
-| 标准版       | 200GB    | ¥29.99 | 3个在线客户端 |  ![价格](https://img.shields.io/badge/价格-30-red)            |
-| 高级版       | 350GB    | ¥39.99 | 5个在线客户端 |  ![价格](https://img.shields.io/badge/价格-40-gray)              |
-| 旗舰版       | 600GB    | ¥59.99 | 8个在线客户端 |  ![价格](https://img.shields.io/badge/价格-60-orange)             |
-| 旗舰版大流量 | 1200GB   | ¥99.99 | 10个在线客户端|   ![价格](https://img.shields.io/badge/价格-100-brightgreen)           |
+| 入门版       | 100GB    | ¥24.99/月 | 3个在线客户端 |  ![价格](https://img.shields.io/badge/价格-25-blue)              |
+| 标准版       | 200GB    | ¥39.99/月 | 3个在线客户端 |  ![价格](https://img.shields.io/badge/价格-40-red)            |
+| 高级版       | 350GB    | ¥49.99/月 | 5个在线客户端 |  ![价格](https://img.shields.io/badge/价格-50-gray)              |
+| 旗舰版       | 600GB    | ¥79.99/月 | 8个在线客户端 |  ![价格](https://img.shields.io/badge/价格-80-orange)             |
+| 旗舰版大流量 | 1200GB   | ¥119.99/月 | 10个在线客户端|   ![价格](https://img.shields.io/badge/价格-10-2brightgreen)           |
 
 <img width="1351" height="786" alt="疾风云机场" src="https://github.com/user-attachments/assets/dd806b9b-71bd-4c41-bb03-bfa30d061128" />
 
