@@ -301,6 +301,7 @@
 | BGP线路*标准套餐 | 300GB     | ¥ 40 /月付  | Netfilx、Hulu、Hbo、Disney+、Dazn等流媒体，ChatGPT、Claude等AI工具 |  ![价格](https://img.shields.io/badge/价格-40-red)      |
 | BGP线路*旗舰套餐 | 700GB     | ¥ 100 /月付 | Netfilx、Hulu、Hbo、Disney+、Dazn等流媒体，ChatGPT、Claude等AI工具 |  ![价格](https://img.shields.io/badge/价格-100-gray)       |
 | BGP线路*企业套餐 | 1500GB    | ¥ 180 /月付 | Netfilx、Hulu、Hbo、Disney+、Dazn等流媒体，ChatGPT、Claude等AI工具 |  ![价格](https://img.shields.io/badge/价格-180-black)        |
+| 肥猫专享节点 | 1500GB    | ¥ 600 /月付 |  专线流量, 独享带宽，独享IP |  ![价格](https://img.shields.io/badge/价格-600-blue)        |
 
 <img width="1408" height="771" alt="肥猫云机场" src="https://github.com/user-attachments/assets/cf10141a-344c-4e80-a969-86129ad21a3c" />
 
