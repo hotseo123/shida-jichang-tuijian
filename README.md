@@ -296,7 +296,7 @@
 
 | 套餐类型         | 流量      | 价格        | 支持设备               | 价格徽章        |
 |------------------|-----------|-------------|------------------------|------------|
-| 肥猫年付加强版   | 60GB      | ¥ 96 /年付  | Netfilx、Hulu、Hbo、Disney+、Dazn等流媒体，ChatGPT、Claude等AI工具 |  ![价格](https://img.shields.io/badge/价格-96-yellow)   |
+| 肥猫年付加强版   | 60GB      | ¥ 96 /年付  | 年付8折优惠, Netfilx、Hulu、Hbo、Disney+、Dazn等流媒体，ChatGPT、Claude等AI工具|  ![价格](https://img.shields.io/badge/价格-96-yellow)   |
 | BGP线路*基础套餐 | 120GB     | ¥ 20 /月付  | Netfilx、Hulu、Hbo、Disney+、Dazn等流媒体，ChatGPT、Claude等AI工具 |  ![价格](https://img.shields.io/badge/价格-20-orange)     |
 | BGP线路*标准套餐 | 300GB     | ¥ 40 /月付  | Netfilx、Hulu、Hbo、Disney+、Dazn等流媒体，ChatGPT、Claude等AI工具 |  ![价格](https://img.shields.io/badge/价格-40-red)      |
 | BGP线路*旗舰套餐 | 700GB     | ¥ 100 /月付 | Netfilx、Hulu、Hbo、Disney+、Dazn等流媒体，ChatGPT、Claude等AI工具 |  ![价格](https://img.shields.io/badge/价格-100-gray)       |
