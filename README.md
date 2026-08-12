@@ -18,12 +18,12 @@
 2. [Cyberguard机场](#Cyberguard机场)
 3. [肥猫云机场](#肥猫云机场)  
 4. [雪橇云机场](#雪橇云机场)  
-5. [红杏云机场](#红杏云机场)
-6. [大米机场](#大米机场)  
-7. [疾风云机场](#疾风云机场)  
-8. [蓝帆云机场](#蓝帆云机场)  
-9. [赔钱机场](#赔钱机场)
-10. [WgetCloud机场](#WgetCloud机场)  
+5. [大米机场](#大米机场)  
+6. [疾风云机场](#疾风云机场)  
+7. [蓝帆云机场](#蓝帆云机场)  
+8. [赔钱机场](#赔钱机场)
+9. [WgetCloud机场](#WgetCloud机场)
+10. [红杏云机场](#红杏云机场)
 
 ### 机场类型简单说一下（直连/中转/专线）
 
@@ -374,53 +374,6 @@
 
 ---
 
-## 红杏云机场
-
-### 🔹 基本信息
-- **机场名称**：红杏云机场  
-- **官网 / 注册**：🔗 [红杏云机场官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV)  
-- **Telegram / 联系**：[点击加入](https://t.me/Hongxingyun_bot)  
-- **开通时间**：2021 年  
-- **协议支持**：Shadowsocks / Trojan  
-- **节点数量**：![节点数](https://img.shields.io/badge/节点-30%2B-brightgreen)  
-- **入口线路**：国内直连 / 海外中转  
-- **支持 UDP**：✅ 是  
-- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
-- **客户端支持**：Clash, V2rayN, Shadowrocket  
-- **适用平台**：Windows / macOS / iOS / Android  
-- **支付方式**：支付宝 / 微信 / USDT  
-- **套餐流量类型**：周期计费 / 按量+周期计费  
-
-### ✨ 服务亮点
-- ⚡ 高性价比，稳定性好  
-- 🎬 支持流媒体解锁  
-- 🌍 节点覆盖亚洲和美洲  
-- 🔐 协议兼容性强  
-
-### 💰 套餐 & 价格
-
-| 套餐类型             | 流量           | 价格    | 支持设备          | 价格徽章  |
-|----------------------|----------------|---------|-------------------|------|
-| 轻量-包月200G        | 200 GB/月      | ¥18.00/月  | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-18-red)     |
-| 冲浪-包月500G        | 500 GB/月      | ¥38.00/月  | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-38-gray)    |
-| 豪华-包月800G「火爆」| 800 GB/月      | ¥58.00/月  | 不限制，支持家庭成员共享 | ![价格](https://img.shields.io/badge/价格-58-yellow)   |
-| 大师-包月1200G       | 1200 GB/月     | ¥78.00/月  | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-78-orange)    |
-| 轻量-不限时1000G     | 1000 GB/用完为止 | ¥138.00/月 | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-138-gray)    |
-| 冲浪-不限时2000G     | 2000 GB/用完为止 | ¥258.00/月 | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-258-black)    |
-| 高级-不限时3000G「火爆」| 3000 GB/用完为止 | ¥368.00/月 | 不限制，支持家庭成员共享 | ![价格](https://img.shields.io/badge/价格-368-blue)  |
-| 豪华-不限时6000G     | 6000 GB/用完为止 | ¥688.00/月 | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-688-red)     |
-| 大师-不限时9000G     | 9000 GB/用完为止 | ¥898.00/月 | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-898-green)     |
-
-<img width="1384" height="679" alt="红杏云机场" src="https://github.com/user-attachments/assets/e1e8ef86-18f1-4397-9245-4fe33c052c8e" />
-
-### 优惠活动
-
-- 优惠码：`clashx.cc`
-- 截止时间：长期有效
-- 优惠说明：全场8折
-
----
-
 ## 大米机场
 
 ### 🔹 基本信息
@@ -660,6 +613,53 @@ WgetCloud 是目前口碑较好的精品机场之一，自2021年运营以来一
 | 精品团队套餐-L | 每月5760G | ¥1267 / 每月| 可支持40台设备同时接入 | ![价格](https://img.shields.io/badge/价格-1267-black) |
 
 <img width="1393" height="802" alt="WgetCloud机场套餐" src="https://github.com/user-attachments/assets/e9ff0eba-0e51-43e9-8e50-19c65d2f62d4" />
+
+---
+
+## 红杏云机场
+
+### 🔹 基本信息
+- **机场名称**：红杏云机场  
+- **官网 / 注册**：🔗 [红杏云机场官网](https://go2lk.pages.dev/xmjwtx)  
+- **Telegram / 联系**：[点击加入](https://t.me/Hongxingyun_bot)  
+- **开通时间**：2021 年  
+- **协议支持**：Shadowsocks / Trojan  
+- **节点数量**：![节点数](https://img.shields.io/badge/节点-30%2B-brightgreen)  
+- **入口线路**：国内直连 / 海外中转  
+- **支持 UDP**：✅ 是  
+- **设备数量限制**：![设备数](https://img.shields.io/badge/设备-5-blue)  
+- **客户端支持**：Clash, V2rayN, Shadowrocket  
+- **适用平台**：Windows / macOS / iOS / Android  
+- **支付方式**：支付宝 / 微信 / USDT  
+- **套餐流量类型**：周期计费 / 按量+周期计费  
+
+### ✨ 服务亮点
+- ⚡ 高性价比，稳定性好  
+- 🎬 支持流媒体解锁  
+- 🌍 节点覆盖亚洲和美洲  
+- 🔐 协议兼容性强  
+
+### 💰 套餐 & 价格
+
+| 套餐类型             | 流量           | 价格    | 支持设备          | 价格徽章  |
+|----------------------|----------------|---------|-------------------|------|
+| 轻量-包月200G        | 200 GB/月      | ¥18.00/月  | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-18-red)     |
+| 冲浪-包月500G        | 500 GB/月      | ¥38.00/月  | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-38-gray)    |
+| 豪华-包月800G「火爆」| 800 GB/月      | ¥58.00/月  | 不限制，支持家庭成员共享 | ![价格](https://img.shields.io/badge/价格-58-yellow)   |
+| 大师-包月1200G       | 1200 GB/月     | ¥78.00/月  | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-78-orange)    |
+| 轻量-不限时1000G     | 1000 GB/用完为止 | ¥138.00/月 | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-138-gray)    |
+| 冲浪-不限时2000G     | 2000 GB/用完为止 | ¥258.00/月 | 不限制，支持家庭成员共享 |    ![价格](https://img.shields.io/badge/价格-258-black)    |
+| 高级-不限时3000G「火爆」| 3000 GB/用完为止 | ¥368.00/月 | 不限制，支持家庭成员共享 | ![价格](https://img.shields.io/badge/价格-368-blue)  |
+| 豪华-不限时6000G     | 6000 GB/用完为止 | ¥688.00/月 | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-688-red)     |
+| 大师-不限时9000G     | 9000 GB/用完为止 | ¥898.00/月 | 不限制，支持家庭成员共享 |   ![价格](https://img.shields.io/badge/价格-898-green)     |
+
+<img width="1384" height="679" alt="红杏云机场" src="https://github.com/user-attachments/assets/e1e8ef86-18f1-4397-9245-4fe33c052c8e" />
+
+### 优惠活动
+
+- 优惠码：`clashx.cc`
+- 截止时间：长期有效
+- 优惠说明：全场8折
 
 ## 📌 机场使用建议
 
