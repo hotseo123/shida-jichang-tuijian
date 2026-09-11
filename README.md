@@ -589,7 +589,7 @@ WgetCloud 是目前口碑较好的精品机场之一，自2021年运营以来一
 - **客户端支持：** Clash、Clash Verge Rev、Clash Meta、Shadowrocket、Surge、Stash、sing-box、FlClash、Hiddify Next 等
 - **适用平台：** Windows / macOS / iOS / Android / Linux / 路由器
 - **支付方式：** 支付宝 / 微信支付
-- **套餐流量类型：** 周期订阅（年付）
+- **套餐流量类型：** 周期订阅（季付/年付）
 
 ### ✨ 服务亮点
 
